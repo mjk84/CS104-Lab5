@@ -1,0 +1,91 @@
+.box{ 
+    height: 200; 
+    width: 300;
+} 
+
+nav ul li{ 
+    list-style: none; 
+    display: inline-block; 
+    margin-right: 60px;
+} 
+
+nav{ 
+    background-color: antiquewhite; 
+    height: 60px; 
+    padding: 20px; 
+} 
+
+nav ul li a {  
+    text-decoration: none; 
+    color: brown;
+} 
+
+.responsive-box{ 
+    height:50%;
+    width :50%;
+} 
+
+.custom-padding {
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 20px; 
+    padding-right: 20px; 
+
+} 
+
+.padding text{ 
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+    padding-left: 20px;  
+    padding-right: 20px
+} 
+
+.border-box{ 
+    border: 2x solid black 
+} 
+
+.rounded-border{ 
+    border-radius: 15px; 
+    border-style: dotted; 
+    color: red; 
+    border: 3px;
+} 
+
+.margin-text{ 
+    margin-top: 300px; 
+    margin-bottom: 300px;
+    margin-left: 300px; 
+    margin-right: 300px;
+} 
+
+.custom-mergin-text{ 
+    margin-top:20px; 
+    margin-bottom: 20px; 
+    margin-left: 40px; 
+    margin-right: 40px; 
+} 
+
+.incline element{ 
+    display:inline-element;
+} 
+
+.block-element{ 
+    display: block; 
+} 
+
+.hidden element{ 
+    display:none
+} 
+
+.visible element{ 
+    display:visable; 
+} 
+
+.invisible-element{ 
+    visibility: hidden; 
+} 
+
+.tranparent-box{ 
+    background-color: blue; 
+    opacity: 0.5;
+}
